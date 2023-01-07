@@ -5,7 +5,7 @@
 </p>
 
 ### [Project_01](Project_01) :
-<img src="images/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
+<img src="images/bar.jpeg" alt="bar.jpeg" width="1100" height="3"> <br>
 
 **Problem:** 
 The project is about different classification and regression techniques. There are six sub-problems under this project.
@@ -21,7 +21,7 @@ The project is about different classification and regression techniques. There a
 
 
 ### [Project_02](Project_02) :
-<img src="images/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
+<img src="images/bar.jpeg" alt="bar.jpeg" width="1100" height="3"> <br>
 
 **Problem:** 
 Handwritten Digits Classification using **Multilayer Perceptron (MLP) Neural Network**
@@ -40,7 +40,7 @@ Handwritten Digits Classification using **Multilayer Perceptron (MLP) Neural Net
 
 
 ### [Project_03](Project_03) :
-<img src="images/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
+<img src="images/bar.jpeg" alt="bar.jpeg" width="1100" height="3"> <br>
 
 **Problem:** 
 The project is about **Support Vector Machine (SVM)** and mulit-class logistic regression.
